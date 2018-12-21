@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebApiRugby/v15/Server/sqlite3
+/WebApiRugby/bin/Debug/netcoreapp2.1
+/.vs/WebApiRugby/v15
+/.vs/WebApiRugby/DesignTimeBuild
+/.vs/config
+/WebApiRugby/obj
